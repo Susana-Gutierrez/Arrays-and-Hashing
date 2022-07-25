@@ -1,1 +1,1 @@
-# Arrays-and-Hashing
+# arrays-and-hashing
